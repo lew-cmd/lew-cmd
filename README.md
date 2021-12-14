@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🎓 **Data Science** student at Le Wagon. 
 - 🌱 Improving my Python skills, learning advanced statistics, Machine Learning, Deep Learning and Data Engineering.
 - 👯 Willing to collaborate in all sort of Data Science, Machine Learning/Deep Learning, Data Analysis and Blockchain/Cryptocurrencies projects.
-- 💬 Languages: :🇦🇹: 🇬🇧 
+- 💬 Languages: 🇦🇹 🇬🇧 
 
 
 ## Programming Languages and Tools:
