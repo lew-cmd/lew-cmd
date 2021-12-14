@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🎓 **Data Science** student at Le Wagon. 
 - 🌱 Improving my Python skills, learning advanced statistics, Machine Learning, Deep Learning and Data Engineering.
 - 👯 Willing to collaborate in all sort of Data Science, Machine Learning/Deep Learning, Data Analysis and Blockchain/Cryptocurrencies projects.
-- 💬 Languages: 🇦🇹: 🇬🇧 
+- 💬 Languages: :🇦🇹: 🇬🇧 
 
 
 ## Programming Languages and Tools:
@@ -46,14 +46,14 @@ Here are some ideas to get you started:
 ## 📊 My Github Stats
 
 <br/>
-  <a href="https://github.com/macrodrigues/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lew-cmd&show_icons=true&theme=onedark" /></a>
-  <a href="https://github.com/macrodrigues/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lew-cmd&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/lew-cmd/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lew-cmd&show_icons=true&theme=onedark" /></a>
+  <a href="https://github.com/lew-cmd/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lew-cmd&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
 
 <br/>
 <br/>
 
-<a href="https://github.com/lew-cmd/github-readme-activity-graph" ><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=macrodrigues&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/lew-cmd/github-readme-activity-graph" ><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lew-cmd&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ## :globe_with_meridians: Find me here:
 
@@ -64,8 +64,8 @@ Here are some ideas to get you started:
 
 <!--
 ### :memo: Summary
--- ![GitHub last commit](https://img.shields.io/github/last-commit/macrodrigues/macrodrigues)
---![pv](https://pageview.vercel.app/?github_user=macrodrigues)
+-- ![GitHub last commit](https://img.shields.io/github/last-commit/lew-cmd/lew-cmd)
+--![pv](https://pageview.vercel.app/?github_user=lew-cmd)
 -->
 
 <a href = "https://www.linkedin.com/in/marco-rodrigues-74759b8a/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" align="left" width="40px"/></a>
