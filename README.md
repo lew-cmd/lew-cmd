@@ -66,10 +66,9 @@ Here are some ideas to get you started:
 ### :memo: Summary
 -- ![GitHub last commit](https://img.shields.io/github/last-commit/lew-cmd/lew-cmd)
 --![pv](https://pageview.vercel.app/?github_user=lew-cmd)
+<a href = "https://www.linkedin.com/in/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" align="left" width="40px"/></a>
+<a href = "https://peakd.com/"><img src="https://files.peakd.com/file/peakd-hive/jarvie-dev/FFpyGCBj-image.png" align="left" width="40px"/></a>
 -->
-
-<a href = "https://www.linkedin.com/in/marco-rodrigues-74759b8a/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" align="left" width="40px"/></a>
-<a href = "https://peakd.com/@macrodrigues"><img src="https://files.peakd.com/file/peakd-hive/jarvie-dev/FFpyGCBj-image.png" align="left" width="40px"/></a>
 
 
 <!--
